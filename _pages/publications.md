@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /research/
+title: "Publication"
+permalink: /publication/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Journal papers
