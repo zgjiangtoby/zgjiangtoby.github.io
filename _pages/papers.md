@@ -7,7 +7,7 @@ redirect_from:
   - /papers
 ---
 
-{% include base_path %}
+# {% include base_path %}
 
 Journal papers
 ======
