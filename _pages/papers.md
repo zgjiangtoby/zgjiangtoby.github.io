@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# {% include base_path %}
-
 Journal papers
 ======
 * Jiang, Ye, and Yimin Wang. "Topic-aware hierarchical multi-attention network for text classification." International Journal of Machine Learning and Cybernetics (2022): 1-13.
