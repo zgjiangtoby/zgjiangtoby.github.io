@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-     url: https://scholar.google.com/citations?hl=en&user=QkvwQpAAAAAJ&view_op=list_works&sortby=pubdate
-    
-  - title: "CV"
-    url: /papers/
-    
-  - title: "Guide"
-    url: /markdown/
+     url: /research/
+   
+ - title: "Research"
+    url: /research/
