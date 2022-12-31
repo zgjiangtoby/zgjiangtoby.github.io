@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the School of Information and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)). Prior to joining QUST, I was a Research Associate at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield. I also earned my PhD at the University of Sheffield. My research centres on artificial intelligence, natural language processing, machine learning and social computing. I am particularly interested in developing a prompt-based algorithm and model for multimodal fake news detection.
+I am an Assistant Professor at the School of Information and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)). Prior to joining QUST, I was a Research Associate at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield. I was a [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/) and earned my PhD at the University of Sheffield. My research centres on artificial intelligence, natural language processing, machine learning and social computing. I am particularly interested in developing a prompt-based algorithm and model for multimodal fake news detection.
 
 **🎓I am looking for highly motivated Master students interested in Machine Learning, Data Mining and Natural Language Processing.**
 
