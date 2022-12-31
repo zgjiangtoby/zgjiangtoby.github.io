@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the School of Information and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)). Prior to joining QUST, I was a Research Associate at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield, advised by [Prof. Kalina Bontcheva](http://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/). I also obtained my PhD at the University of Sheffield, supervised by [Dr. Diana Maynard](https://www.sheffield.ac.uk/dcs/people/research-staff/diana-maynard). My research centres on artificial intelligence, natural language processing, machine learning and social computing. I am particularly interested in developing a prompt-based algorithm and model for multimodal fake news detection.
+I am an Assistant Professor at the School of Information and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)). Prior to joining QUST, I was a Research Associate at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield. I also earned my PhD at the University of Sheffield. My research centres on artificial intelligence, natural language processing, machine learning and social computing. I am particularly interested in developing a prompt-based algorithm and model for multimodal fake news detection.
+
+**🎓I am looking for highly motivated Master students interested in Machine Learning, Data Mining and Natural Language Processing.**
 
 News
 ======
@@ -16,7 +18,7 @@ News
 - [11/2022] One paper was accpeted by MediaEval 2022 Working Notes Processdings.
 - [06/2022] One paper was accpeted by MAD '22: Proceedings of the 1st International Workshop on Multimedia AI against Disinformation.
 
-Journal papers
+Journal papers 📝 
 ======
 * Jiang, Ye, and Yimin Wang. "Topic-aware hierarchical multi-attention network for text classification." International Journal of Machine Learning and Cybernetics (2022): 1-13.
 
@@ -26,7 +28,7 @@ Journal papers
 
 * Wang, Yimin, Jiajia Liu, Ye Jiang, and Robert Erdélyi. "CME arrival time prediction using convolutional neural network." The Astrophysical Journal 881, no. 1 (2019): 15.
 
-Conference papers
+Conference papers 📝 
 ======
 * Shao, Yi, Jiande Sun, Tianlin Zhang, Ye Jiang, Jianhua Ma, and Jing Li. "Fake News Detection Based on Multi-Modal Classifier Ensemble." In Proceedings of the 1st International Workshop on Multimedia AI against Disinformation, pp. 78-86. 2022.
 
@@ -39,7 +41,7 @@ Conference papers
 * Jiang, Ye, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana Maynard. "Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation." In Proceedings of the 2017 EMNLP Workshop: Natural Language Processing meets Journalism, pp. 25-30. 2017.
 
 
-Talks
+Talks🏛️
 ======
 * "Online Misinformation, Fake News Detection and Explainable AI",
   Shandong Normal University 2021,
@@ -53,7 +55,7 @@ Talks
   Proceedings of the 2017 EMNLP Workshop: Natural Language Processing meets Journalism,
   Oral Presentation
   
-Selected Award
+Selected Award🏅
 ======
 * Tianchi 2020 Solar Storm Recognition and Warning AI Challenge -- Track One: Intelligent Classification of Sunspot Types, 20th Place, [Leaderboard](https://tianchi.aliyun.com/competition/entrance/531803/rankingList)
 
