@@ -9,7 +9,7 @@ author_profile: true
 * "Online Misinformation, Fake News Detection and Explainable AI",
   Shandong Normal University 2021,
   Invited talk,
-  [PPT](https://ye-jiang.com/files/talk_ss)
+  [PPT](https://ye-jiang.com/files/talk_ss.pptx)
 
 * "Comparing Topic-Aware Neural Networks for Bias Detection of News." 
   ECAI 2020,
