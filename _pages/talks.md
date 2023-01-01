@@ -11,6 +11,11 @@ author_profile: true
   Invited talk,
   [PDF](https://ye-jiang.com/files/talk_ss.pdf)
 
+* "Elasticsearch, Kibana tutorial for Twitter Misinformation Detection",
+  GATE NLP Group,
+  University of Sheffield 2021,
+  Online, [Video](https://ye-jiang.com/files/Kibana_tutorial.mp4)
+
 * "Comparing Topic-Aware Neural Networks for Bias Detection of News." 
   ECAI 2020,
   Online, [Video](https://underline.io/lecture/1948-comparing-topic-aware-neural-networks-for-bias-detection-of-news)
