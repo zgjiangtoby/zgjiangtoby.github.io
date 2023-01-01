@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ======
+
+
 Lecturer
 ======
 * School of Information and Technology, Qingdao University of Science and Technology:
@@ -17,7 +19,7 @@ Lecturer
 
 Demonstrator
 ======
-* GATE Training Course, University of Sheffield, 2021
+* GATE Training Course, University of Sheffield, 2021, [PDF](http://ye-jiang.com/files/GateIntro.pdf)
 
 * Department of Computer Science, University of Sheffield:
    - COM6115: Text Processing (2019/2020), by [Dr. Mark Hepple](http://staffwww.dcs.shef.ac.uk/people/M.Hepple/)
