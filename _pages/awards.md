@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards & Grants"
+title: "Projects"
 permalink: /awards/
 author_profile: true
 ---
