@@ -87,9 +87,9 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QkvwQpAAAAAJ"
-  email            : "ye.jiang (the special token) qust.edu.cn"
+  email            :
   researchgate     :  "https://www.researchgate.net/profile/Ye-Jiang-27"
-  uri              :
+  uri              : "ye.jiang (the special token) qust.edu.cn"
   bitbucket        :
   codepen          :
   dribbble         :
