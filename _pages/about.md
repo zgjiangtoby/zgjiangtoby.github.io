@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the School of Information Science and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)). Prior to joining QUST, I was a Research Associate at [GATE NLP](https://gate.ac.uk/) group, and also earned my PhD at the Department of Computer Science, University of Sheffield. I was also a [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/) at the Grantham Centre for Substainable Life. My research centres on artificial intelligence, natural language processing, machine learning and social computing, I am also particularly interested in developing prompt-based algorithm and model for multimodal fake news detection.
+I am an Assistant Professor (AKA :bell_pepper:) at the School of Information Science and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)).  Prior to joining QUST, I was a Research Associate worked on the detection of online abuse, disinformation, and explainable AI (XAI) at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield.  My PhD was earned at the University of Sheffield and I was also a [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/) at the Grantham Centre for Sustainable Life.  My research centres on artificial intelligence, natural language processing, machine learning and social computing, I am also particularly interested in developing prompt-based algorithms and models for multimodal fake news detection.
 
 **🎓I am always looking for highly motivated Master students interested in Machine Learning, Data Mining and Natural Language Processing.**
 
