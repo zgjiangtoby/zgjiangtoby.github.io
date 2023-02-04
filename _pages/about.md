@@ -14,7 +14,7 @@ I earned my PhD in Computer Science from the University of Sheffield with the th
 
 My research centres on artificial intelligence, natural language processing, machine learning and social computing, more specifically:
 
-* Fake News Detection
+* Fake News, Misinformation Detection
 * Document Representation Learning
 * Social Computing
 * Data Mining
