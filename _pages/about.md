@@ -24,7 +24,7 @@ My research centres on artificial intelligence, natural language processing, mac
 
 News
 ======
-- [05/2023] Our system won the 2nd place in Spanish and Italian on the SemEval 2023 Shared Task 3.
+- [02/2023] Our system won the 2nd place in Spanish and Italian on the SemEval 2023 Shared Task 3.
 - [12/2022] One paper was published on the International Journal of Machine Learning and Cybernetics.
 - [11/2022] One paper was accpeted by MediaEval 2022 Working Notes Processdings.
 - [06/2022] One paper was accpeted by MAD '22: Proceedings of the 1st International Workshop on Multimedia AI against Disinformation.
