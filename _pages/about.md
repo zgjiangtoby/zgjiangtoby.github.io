@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (:bell_pepper:) at the School of Information Science and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)).  Prior to joining QUST, I was a Research Associate for the SoBigData++ project and worked on the detection of online abuse, disinformation, and explainable AI (XAI) at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield.  
+I am an Assistant Professor <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad1.png?v8" alt= "青年教师" width="20" height="20"> at the School of Information Science and Technology, Qingdao University of Science and Technology ([QUST](https://www.qust.edu.cn/)).  Prior to joining QUST, I was a Research Associate for the SoBigData++ project and worked on the detection of online abuse, disinformation, and explainable AI (XAI) at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield.  
 
 I was awarded a PhD in Computer Science from the University of Sheffield with the thesis entitled "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change" in 2021. My PhD project was funded by the Grantham Centre for Sustainable Life and therefore I was lucky as a member of the [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/).  
 
