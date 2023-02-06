@@ -14,10 +14,9 @@ I was awarded a PhD in Computer Science from the University of Sheffield with th
 
 My research centres on artificial intelligence, natural language processing, machine learning and social computing, more specifically:
 
-* Fake News, Misinformation Detection
+* (Multimodal) Fake News, Misinformation Detection
 * Text Representation Learning
 * Social Computing
-* Data Mining
 * Few-shot Learning (Prompt-based)
 
 **🎓I am always looking for highly motivated Master students interested in Machine Learning, Data Mining and Natural Language Processing.**
