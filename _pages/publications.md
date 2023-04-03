@@ -29,10 +29,10 @@ author_profile: true
 ======
 * Wang, Yimin, Jiajia Liu, Ye Jiang, and Robert Erdélyi. "CME arrival time prediction using convolutional neural network." The Astrophysical Journal 881, no. 1: 15, 2019.
 
-* Jiang, Ye, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019.
+* Jiang, Ye, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. [[PDF](https://ye-jiang.com/files/team19.pdf)]  [[cite](https://ye-jiang.com/files/team19_citation.bib)]
 
 Before 2019
 ======
-* Jiang, Ye, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana Maynard. "Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation." In Proceedings of the 2017 EMNLP Workshop: Natural Language Processing meets Journalism, pp. 25-30. 2017.
+* Jiang, Ye, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana Maynard. "Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation." In Proceedings of the 2017 EMNLP Workshop: Natural Language Processing meets Journalism, pp. 25-30. 2017.  [[PDF](https://ye-jiang.com/files/compare17.pdf)]  [[cite](https://ye-jiang.com/files/com17_citation.bib)]
 
-* Hong Xu, Ye Jiang, Yimin Wang, Yewei Sun, Xueqing Li. Sentence length, sentence fragment and images affecting presentation of search result pages. Proceedings of the 2015 JIMET Conference, 2015.
+* Hong Xu, Ye Jiang, Yimin Wang, Yewei Sun, Xueqing Li. Sentence length, sentence fragment and images affecting presentation of search result pages. Proceedings of the 2015 JIMET Conference, 2015.   [[PDF](https://ye-jiang.com/files/sentence_length.pdf)]  [[cite](https://ye-jiang.com/files/sent_len_citation.bib)]
