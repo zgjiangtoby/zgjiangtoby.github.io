@@ -29,7 +29,7 @@ author_profile: true
 ======
 * Wang, Yimin, Jiajia Liu, Ye Jiang, and Robert Erdélyi. "CME arrival time prediction using convolutional neural network." The Astrophysical Journal 881, no. 1: 15, 2019.
 
-* Jiang, Ye, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. [[PDF](https://ye-jiang.com/files/team19.pdf)]  [[cite](https://ye-jiang.com/files/team19_citation.bib)]
+* Jiang, Ye, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. [[PDF](https://ye-jiang.com/files/team19.pdf)]  [[cite](https://ye-jiang.com/files/team19_cite.rtf)]
 
 Before 2019
 ======
