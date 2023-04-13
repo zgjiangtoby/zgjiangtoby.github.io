@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+2023
+======
+* Jiang, Ye. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." arXiv preprint arXiv:2304.04190, 2023. [[PDF](https://arxiv.org/pdf/2304.04190.pdf)]
+
+* Jiang, Ye, Xiaomin Yu, Yimin Wang, Xiaoman Xu, Xingyi Song, and Diana Maynard. "Similarity-Aware Multimodal Prompt Learning for Fake News Detection." arXiv preprint arXiv:2304.04187, 2023. [[PDF](https://arxiv.org/pdf/2304.04187.pdf)]
+
 2022
 ======
 * Shao, Yi, Yang Zhang, Ye Jiang, Wenbo Wan, Jing Li, and Jiande Sun. "HFFD: Hybrid Fusion Based Multimodal Flood Relevance Detection.", 2022.  [[PDF](https://ye-jiang.com/files/SHAO_22.pdf)]
