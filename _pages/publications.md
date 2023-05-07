@@ -7,9 +7,12 @@ author_profile: true
 
 2023
 ======
+
 * Jiang, Ye. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." arXiv preprint arXiv:2304.04190, 2023. [[PDF](https://arxiv.org/pdf/2304.04190.pdf)]
 
 * Jiang, Ye, Xiaomin Yu, Yimin Wang, Xiaoman Xu, Xingyi Song, and Diana Maynard. "Similarity-Aware Multimodal Prompt Learning for Fake News Detection." arXiv preprint arXiv:2304.04187, 2023. [[PDF](https://arxiv.org/pdf/2304.04187.pdf)]
+
+* Shao, Yi, Jiande Sun, Ye Jiang, and Jing Li. "Dual-grained Text-Image Olfactory Matching Model with Mutual Promotion Stages." In Companion Proceedings of the ACM Web Conference 2023, pp. 669-677. 2023. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3543873.3587649)]
 
 2022
 ======
