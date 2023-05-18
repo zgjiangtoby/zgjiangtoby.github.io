@@ -10,17 +10,19 @@ author_profile: true
 
 Program Committee/Reviewer
 =====
- * ACM International Conference on Multimedia Retrieval 2022
- * European Conference on Artificial Intelligence 2020 
- * UK healthcare text analytics conference 2020 
- * AAAI Conference on Artificial Intelligence 2020,2021 
- * Annual Conference of the Association for Computational Linguistics 2020 
- * Conference on Empirical Methods in Natural Language Processing 2017,2019
- * International Workshop on Semantic Evaluation 2019 
+ * ECAI 2020 
+ * ACL 2020, 2023
+ * EMNLP 2017, 2019
+ * SemEval 2019, 2023
  * The Web Conference 2019 
- * International Conference on Language Resources and Evaluation 2018, 2020 
+ * LREC 2018, 2020 
+ * WWW Companion 2023
+ * ACM ICMR 2022
+ * HealTAC 2020 
+ * AAAI 2020, 2021 
 
-Journal Review
+Journal Reviewer
 =====
  * Neurocomputing
  * International Journal of Machine Learning and Cybernetics
+ * Internet of Things
