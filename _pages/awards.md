@@ -9,8 +9,8 @@ author_profile: true
 
 Grants:
 =====
-* Shandong Provincial Natural Science Foundation (Participate), ¥100,000, 2022
-* Qingdao Talent Introduces Project Grants, ¥400,000, 2021
+* Shandong Provincial Natural Science Foundation (as Coinvestigator), ¥100,000, 2022
+* Qingdao Talent Introduces Project Grants (as Principal Investigator), ¥400,000, 2021
 
 Awards:
 =====
