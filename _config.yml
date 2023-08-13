@@ -83,11 +83,11 @@ author:
   name             : "Ye Jiang / 姜也"
   avatar           : "my_head.jpeg"
   bio              : "NLPer, badminton enthusiast"
-  location         : "Qingdao, Shandong"
-  employer         : "Qingdao University of Science and Technology"
+  location         :
+  employer         : "ye.jiang AT qust.edu.cn"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QkvwQpAAAAAJ"
-  email            :  "ye.jiang AT qust.edu.cn"
+  email            :  
   researchgate     :  "https://www.researchgate.net/profile/Ye-Jiang-27"
   uri              : 
   bitbucket        :
