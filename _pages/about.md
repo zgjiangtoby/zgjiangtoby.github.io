@@ -19,7 +19,7 @@ My research centres on artificial intelligence, natural language processing, mac
 * Social Computing
 * Few-shot Learning (Prompt-based)
 
-**🎓I am ACTIVELY looking for students to conduct research in the area of data mining, machine learning, social media mining, and natural language processing. Interested students please feel free to drop me an email with your CV.**
+**🎓I am ACTIVELY looking for students to conduct research in the area of data mining, machine learning, social computing, and natural language processing. Interested students please feel free to drop me an email with your CV.**
 
 News
 ======
