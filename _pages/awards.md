@@ -11,10 +11,10 @@ Grants:
 =====
 As Principal Investigator:
 * Shandong Provincial Natural Science Foundation, ¥150,000, 2023
-* Qingdao Talent Introduces Project Grants (as Principal Investigator), ¥400,000, 2021
+* Qingdao Talent Introduces Project Grants, ¥400,000, 2021
 
 As Coinvestigator:
-* Shandong Provincial Natural Science Foundation (as Coinvestigator), ¥100,000, 2022
+* Shandong Provincial Natural Science Foundation, ¥100,000, 2022
 
 
 Awards:
