@@ -14,6 +14,10 @@ author_profile: true
 
 * Shao, Yi, Jiande Sun, **Ye Jiang**, and Jing Li. "Dual-grained Text-Image Olfactory Matching Model with Mutual Promotion Stages." In Companion Proceedings of the ACM Web Conference 2023, pp. 669-677. 2023. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3543873.3587649)]
 
+* Mu, Yida, **Ye Jiang**, Freddy Heppell, Iknoor Singh, Carolina Scarton, Kalina Bontcheva, Xingyi Song. "A Large-Scale Comparative Study of Accurate COVID-19 Information versus Misinformation
+.", In Workshop Proceedings of the 17th International AAAI Conference on Web and Social Media, 2023. [[PDF](https://arxiv.org/pdf/2304.04811.pdf)]
+
+
 2022
 ======
 * Shao, Yi, Yang Zhang, **Ye Jiang**, Wenbo Wan, Jing Li, and Jiande Sun. "HFFD: Hybrid Fusion Based Multimodal Flood Relevance Detection.", 2022.  [[PDF](https://ye-jiang.com/files/SHAO_22.pdf)]
