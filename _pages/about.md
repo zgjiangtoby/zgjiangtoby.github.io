@@ -30,20 +30,6 @@ News
 - [11/2022] One paper was accpeted by MediaEval 2022 Working Notes Processdings.
 - [06/2022] One paper was accpeted by MAD '22: Proceedings of the 1st International Workshop on Multimedia AI against Disinformation.
 
-Program Committee/Reviewer
-=====
- * CSA 2023
- * ECAI 2020 
- * ACL 2020, 2023
- * EMNLP 2017, 2019
- * SemEval 2019, 2023
- * The Web Conference 2019 
- * LREC 2018, 2020 
- * WWW Companion 2023
- * ACM ICMR 2022
- * HealTAC 2020 
- * AAAI 2020, 2021 
-
 Journal Reviewer
 =====
  * Neurocomputing
