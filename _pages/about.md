@@ -30,8 +30,3 @@ News
 - [11/2022] One paper was accpeted by MediaEval 2022 Working Notes Processdings.
 - [06/2022] One paper was accpeted by MAD '22: Proceedings of the 1st International Workshop on Multimedia AI against Disinformation.
 
-Journal Reviewer
-=====
- * Neurocomputing
- * International Journal of Machine Learning and Cybernetics
- * Internet of Things
