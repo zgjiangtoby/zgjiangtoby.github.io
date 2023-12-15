@@ -27,4 +27,4 @@ Demonstrator
 
 Past students
 =====
-* Xiaomin Yu(于小敏), Internships@HKUST
+* Xiaomin Yu(于小敏), Internship@HKUST
