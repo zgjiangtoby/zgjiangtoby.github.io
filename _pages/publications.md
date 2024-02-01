@@ -14,7 +14,7 @@ author_profile: true
 2023
 ======
 
-* **Ye Jiang**. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. (<span style="color:red">Best system runner-up, 2/41</span> in Spanish and Italian tracks) [[PDF](https://aclanthology.org/2023.semeval-1.40/)] 
+* **Ye Jiang**. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. <span style="color:red">Best system runner-up</span> in Spanish (2/16, zero-shot) and Italian (2/17) tracks. [[PDF](https://aclanthology.org/2023.semeval-1.40/)] 
   
 * **Ye Jiang**, Xiaomin Yu, Yimin Wang, Xiaoman Xu, Xingyi Song, and Diana Maynard. "Similarity-Aware Multimodal Prompt Learning for Fake News Detection." Information Sciences, Volume 647, 119446, 2023. [[PDF](https://2023.multimediaeval.com/paper17.pdf)]
 
