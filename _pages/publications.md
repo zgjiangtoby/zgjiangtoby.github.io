@@ -14,7 +14,7 @@ author_profile: true
 2023
 ======
 
-* **Ye Jiang**. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. [[PDF](https://aclanthology.org/2023.semeval-1.40/)] <span style="color:red">Best system runner-up</span> in Spanish and Italian tracks.
+* **Ye Jiang**. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. <span style="color:red">Best system runner-up</span> in Spanish and Italian tracks. [[PDF](https://aclanthology.org/2023.semeval-1.40/)] 
   
 * **Ye Jiang**, Xiaomin Yu, Yimin Wang, Xiaoman Xu, Xingyi Song, and Diana Maynard. "Similarity-Aware Multimodal Prompt Learning for Fake News Detection." Information Sciences, Volume 647, 119446, 2023. [[PDF](https://2023.multimediaeval.com/paper17.pdf)]
 
@@ -49,7 +49,8 @@ author_profile: true
 ======
 * Yimin Wang, Jiajia Liu, **Ye Jiang**, and Robert Erdélyi. "CME arrival time prediction using convolutional neural network." The Astrophysical Journal 881, no. 1: 15, 2019. [[PDF](https://ye-jiang.com/files/cme19.pdf)] 
 
-* **Ye Jiang**, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. [[PDF](https://ye-jiang.com/files/team19.pdf)] <span style="color:red">Best system</span>.
+* **Ye Jiang**, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. <span style="color:red">Best system</span>.
+ [[PDF](https://ye-jiang.com/files/team19.pdf)]
 
 Before 2019
 ======
