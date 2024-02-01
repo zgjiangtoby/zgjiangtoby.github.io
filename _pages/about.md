@@ -17,7 +17,7 @@ My research centres on artificial intelligence, natural language processing, mac
 * (Multimodal) Fake News, Misinformation Detection
 * Text Representation Learning
 * Social Computing
-* Few-shot Learning (Prompt-based)
+* Few-shot Learning
 
 **🎓I am ACTIVELY looking for students to conduct research in the area of data mining, machine learning, social computing, and natural language processing. Interested students please feel free to drop me an email with your CV.**
 
