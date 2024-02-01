@@ -23,10 +23,8 @@ My research centres on artificial intelligence, natural language processing, mac
 
 News
 ======
-- [08/2023] One paper "Similarity-Aware Multimodal Prompt Learning for Fake News Detection" was published in Information Sciences.
-- [04/2023] One paper was published on the WWW '23 Companion: Companion Proceedings of the ACM Web Conference 2023
-- [02/2023] Our system won the 2nd place (in Spanish and Italian) on the SemEval 2023 Shared Task 3.
-- [12/2022] One paper was published on the International Journal of Machine Learning and Cybernetics.
-- [11/2022] One paper was accpeted by MediaEval 2022 Working Notes Processdings.
-- [06/2022] One paper was accpeted by MAD '22: Proceedings of the 1st International Workshop on Multimedia AI against Disinformation.
-
+- [02/2024] Our paper "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023" was published in MediaEval 2023.
+- [08/2023] Our paper "Similarity-Aware Multimodal Prompt Learning for Fake News Detection" was published in Information Sciences.
+- [04/2023] Our paper "Dual-grained Text-Image Olfactory Matching Model with Mutual Promotion Stages" was published on the WWW '23 Companion: Companion Proceedings of the ACM Web Conference 2023.
+- [02/2023] Our system "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques" won 2nd place (in Spanish and Italian tracks) on the SemEval 2023 Shared Task 3.
+- [12/2022] Our paper "Topic-aware hierarchical multi-attention network for text classification" was published in the International Journal of Machine Learning and Cybernetics.
