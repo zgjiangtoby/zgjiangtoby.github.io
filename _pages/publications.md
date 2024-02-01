@@ -9,7 +9,7 @@ author_profile: true
 ======
 * Taihang Wang, Jianxiang Tian, Xiangrun Li, Xiaoman Xu and **Ye Jiang**. "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024 [[PDF](https://2023.multimediaeval.com/paper11.pdf)]
 
-* Jiande Sun, Yi Shao, Yawen Chen, Yang Zhang, Tianlin Zhang, Xuan Zhang, **Ye Jiang** and Jing Li. "Integrated Multi-stage Contextual Attention Network for Text-Image Matching". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024 [[PDF](https://2023.multimediaeval.com/paper11.pdf)]
+* Jiande Sun, Yi Shao, Yawen Chen, Yang Zhang, Tianlin Zhang, Xuan Zhang, **Ye Jiang** and Jing Li. "Integrated Multi-stage Contextual Attention Network for Text-Image Matching". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024 [[PDF](https://2023.multimediaeval.com/paper17.pdf)]
 
 2023
 ======
