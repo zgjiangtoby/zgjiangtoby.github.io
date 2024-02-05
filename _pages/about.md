@@ -23,7 +23,7 @@ My research centres on artificial intelligence, natural language processing, mac
 
 News
 ======
-- [02/2024] Our paper "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023" was published in MediaEval 2023.
+- [02/2024] Our system "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023" is the best system runner-up in the NewsImage MediaEval 2023.
 - [08/2023] Our paper "Similarity-Aware Multimodal Prompt Learning for Fake News Detection" was published in Information Sciences.
 - [04/2023] Our paper "Dual-grained Text-Image Olfactory Matching Model with Mutual Promotion Stages" was published on the WWW '23 Companion: Companion Proceedings of the ACM Web Conference 2023.
 - [02/2023] Our system "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques" won 2nd place (in Spanish and Italian tracks) on the SemEval 2023 Shared Task 3.
