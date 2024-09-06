@@ -27,4 +27,4 @@ Demonstrator
 
 Past students
 =====
-* Xiaomin Yu(于小敏), Internship@HKUST
+* [Xiaomin Yu(于小敏)](https://yu-xm.github.io/), MPhil@HKUST
