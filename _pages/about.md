@@ -12,9 +12,9 @@ I am an Assistant Professor <img src="https://github.githubassets.com/images/ico
 
 I was awarded a PhD in Computer Science from the University of Sheffield with the thesis entitled "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change" in 2021. My PhD project was funded by the Grantham Centre for Sustainable Life and I was also a member of the [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/).  
 
-My research centres on artificial intelligence, natural language processing, machine learning and social computing, more specifically:
+My research interests lie in Machine Learning, Natural Language Processing and their intersections:
 
-* (Multimodal) Fake News, Misinformation Detection
+* (Multimodal) Fact-Checking, Fake News Detection
 * Text Representation Learning
 * Social Computing
 * Few-shot Learning
