@@ -32,4 +32,4 @@ Current students:
 Past students
 =====
 * [Xiaomin Yu(于小敏)](https://yu-xm.github.io/), MPhil@HKUST
-* Xiangrun Li(李祥润),TBC
+* Xiangrun Li(李祥润), MSc@Shandong University
