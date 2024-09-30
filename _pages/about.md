@@ -24,8 +24,8 @@ My research interests lie in Machine Learning, Natural Language Processing and t
 News
 ======
 - [09/2024] One paper published in APJ.
-- [02/2024] Our system is the best system runner-up in the NewsImage MediaEval 2023.
-- [08/2023] One paper published in the Information Sciences.
+- [02/2024] Our system is the best system runner-up in NewsImage MediaEval 2023.
+- [08/2023] One paper published in Information Sciences.
 - [04/2023] One paper published in WWW '23 Companion: Companion Proceedings of the ACM Web Conference 2023.
-- [02/2023] Our system is the best system runner-up (in Spanish and Italian tracks) on the SemEval 2023 Shared Task 3.
-- [12/2022] One paper published in the International Journal of Machine Learning and Cybernetics.
+- [02/2023] Our system is the best system runner-up (in Spanish and Italian tracks) on SemEval 2023 Shared Task 3.
+- [12/2022] One paper published in International Journal of Machine Learning and Cybernetics.
