@@ -1,11 +1,9 @@
 ---
-permalink: /People/
+layout: archive
 title: "QUST NLP Lab"
-modified: 2016-06-06
+permalink: /people/
+author_profile: true
 ---
-
-{% include base_path %}
-{% include toc %}
 
 ## Staff
 
