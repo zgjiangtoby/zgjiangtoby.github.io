@@ -53,7 +53,7 @@ author_profile: true
 
 2020
 ======
-* **Ye Jiang**, Yimin Wang, Xingyi Song, and Diana Maynard. "Comparing topic-aware neural networks for bias detection of news." In ECAI 2020, pp. 2054-2061. IOS Press, 2020.  [[paper](https://ye-jiang.com/files/topic20.pdf)]
+* **Ye Jiang**, Yimin Wang, Xingyi Song, and Diana Maynard. "Comparing topic-aware neural networks for bias detection of news." In ECAI 2020, pp. 2054-2061. IOS Press, 2020.  [[paper](https://ye-jiang.com/files/topic20.pdf)] [[code](https://github.com/yjiang18/LDA-HAN)]
 
 
 2019
