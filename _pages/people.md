@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-## Staff
+## Staffs
 
 | <img src="https://ye-jiang.com/files/20241006152532.jpg" alt="Ye Jiang" width="300" height="300">  | <img src="https://ye-jiang.com/files/20241006152542.jpg" alt="Yimin Wang" width="200" height="200">  |
 |:--:|:--:|
@@ -19,8 +19,6 @@ author_profile: true
 | **Xiaoman Xu(徐小曼)** <br>Master, 2022-present. | **Taihang Wang(汪太行)** <br>Master, 2023-present. |
 | <img src="https://ye-jiang.com/files/141549.png" alt="Jiyan Liu" width="200" height="200">  | <img src="https://ye-jiang.com/files/141555.png" alt="Youzheng Liu" width="200" height="200">  |
 | **Jiyan Liu(柳吉炎)** <br>Master, 2024-present. | **Youzheng Liu(刘有政)** <br>Master, 2024-present. |
-
-
 
 
 ## Alumni
