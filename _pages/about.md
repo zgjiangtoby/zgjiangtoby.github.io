@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad1.png?v8" alt= "青年教师" width="20" height="20"> at the School of Information Science and Technology, Qingdao University of Science and Technology ([QUST](https://xk.qust.edu.cn/info/1041/4713.htm)).  Prior to joining QUST, I was a Research Associate for the SoBigData++ project and worked on the detection of online abuse, disinformation, and explainable AI (XAI) at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield.  
+I am an Assistant Professor <img src="https://github.githubassets.com/images/icons/emoji/unicode/1fad1.png?v8" alt= "青年教师" width="20" height="20"> at the College of Information Science and Technology, Qingdao University of Science and Technology ([QUST](https://xk.qust.edu.cn/info/1041/4713.htm)).  Before joining QUST, I was a Research Associate for the SoBigData++ project and worked on the detection of online abuse, disinformation, and explainable AI (XAI) at [GATE NLP](https://gate.ac.uk/) group, Department of Computer Science, University of Sheffield. I completed my PhD in Computer Science at the University of Sheffield in 2021 with a thesis titled "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change". My PhD was funded by the Grantham Centre for Sustainable Futures, where I was also a [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/).  
 
-I was awarded a PhD in Computer Science from the University of Sheffield with the thesis entitled "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change" in 2021. My PhD project was funded by the Grantham Centre for Sustainable Life and I was also a member of the [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/).  
-
-My research interests lie in Machine Learning, Natural Language Processing and their intersections:
-
-* (Multimodal) Fact-Checking, Fake News Detection
-* Text Representation Learning
-* Social Computing
-* Few-shot Learning
+My research interests lie in Machine Learning, Natural Language Processing and their intersections.
 
 **🎓I am ACTIVELY looking for students to conduct research in the area of data mining, machine learning, social computing, and natural language processing. Interested students please feel free to drop me an email with your CV.**
 
