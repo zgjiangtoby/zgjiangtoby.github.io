@@ -12,20 +12,20 @@ author_profile: true
   
 * Jiajia Liu, Chunyu Ji, Yimin Wang, Szabolcs Soós, **Ye Jiang**, Robertus Erdélyi, MB Korsós, Yuming Wang, "Improving the Automated Coronal Jet Identification with U-NET". The Astrophysical Journal, 972, 2024. [[paper](https://iopscience.iop.org/article/10.3847/1538-4357/ad66be/pdf)]
 
-* **Ye Jiang**, Taihang Wang, Xiaoman Xu, Yimin Wang, Xingyi Song, Diana Maynard, "Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection". arXiv preprint arXiv:2407.12880, 2024.  [[paper](https://arxiv.org/pdf/2407.12880)]
+* **Ye Jiang**, Taihang Wang, Xiaoman Xu, Yimin Wang, Xingyi Song, Diana Maynard, "Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection". arXiv preprint arXiv:2407.12880, 2024.  [[paper](https://arxiv.org/pdf/2407.12880)] [[code](https://github.com/zgjiangtoby/FND_fewshot)]
 
 * **Ye Jiang**, Yimin Wang, "Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection", arXiv preprint arXiv:2407.12879, 2024.  [[paper](https://arxiv.org/pdf/2407.12879)]
 
-* Xiaoman Xu, Xiangrun Li, Taihang Wang, Jianxiang Tian, **Ye Jiang**, "Team QUST at SemEval-2024 Task 8: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting AI-generated Text". Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), 2024.  [[paper](https://aclanthology.org/2024.semeval-1.71/)] [[code](https://github.com/warmth27/SemEval2024_QUST/tree/main )]
+* Xiaoman Xu, Xiangrun Li, Taihang Wang, Jianxiang Tian, **Ye Jiang**, "Team QUST at SemEval-2024 Task 8: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting AI-generated Text". Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), 2024. <span style="color:red">Ranked 6 in Subtask A Multilingual, 6/59</span>. [[paper](https://aclanthology.org/2024.semeval-1.71/)] [[code](https://github.com/warmth27/SemEval2024_QUST/tree/main )] [[leaderboard](https://github.com/mbzuai-nlp/SemEval2024-task8/blob/main/SemEval2024_task8_overview_April.pdf)]
 
-* Taihang Wang, Jianxiang Tian, Xiangrun Li, Xiaoman Xu and **Ye Jiang**. "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024. <span style="color:red">Best system runner-up, 2/10</span>. [[paper](https://2023.multimediaeval.com/paper11.pdf)] [[code](https://github.com/xxm1215/qust_mediaeval2023)]
+* Taihang Wang, Jianxiang Tian, Xiangrun Li, Xiaoman Xu and **Ye Jiang**. "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024. <span style="color:red">Best system runner-up, 2/10</span>. [[paper](https://2023.multimediaeval.com/paper11.pdf)] [[code](https://github.com/xxm1215/qust_mediaeval2023)] [[leaderboard](https://ye-jiang.com/files/NewsImages23-Certificate-Rank2.pdf)]
 
 * Yi Shao, Yawen Chen, Yang Zhang, Tianlin Zhang, Xuan Zhang, **Ye Jiang**, Jing Li and Jiande Sun. "Integrated Multi-stage Contextual Attention Network for Text-Image Matching". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024 [[paper](https://2023.multimediaeval.com/paper17.pdf)]
 
 2023
 ======
 
-* **Ye Jiang**. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. <span style="color:red">Best system runner-up</span> in Spanish (2/16, zero-shot) and Italian (2/17) tracks. [[paper](https://aclanthology.org/2023.semeval-1.40/)] 
+* **Ye Jiang**. "Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques." In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. <span style="color:red">Best system runner-up</span> in Spanish (2/16, zero-shot) and Italian (2/17) tracks. [[paper](https://aclanthology.org/2023.semeval-1.40/)] [[code](https://github.com/zgjiangtoby/SemEval2023_QUST)]
   
 * **Ye Jiang**, Xiaomin Yu, Yimin Wang, Xiaoman Xu, Xingyi Song, and Diana Maynard. "Similarity-Aware Multimodal Prompt Learning for Fake News Detection." Information Sciences, Volume 647, 119446, 2023. [[paper](https://ye-jiang.com/files/IS-2023.pdf)]
 
@@ -61,7 +61,7 @@ author_profile: true
 * Yimin Wang, Jiajia Liu, **Ye Jiang**, and Robert Erdélyi. "CME arrival time prediction using convolutional neural network." The Astrophysical Journal 881, no. 1: 15, 2019. [[paper](https://ye-jiang.com/files/cme19.pdf)] 
 
 * **Ye Jiang**, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. <span style="color:red">Best system, 1/42</span>.
- [[paper](https://ye-jiang.com/files/team19.pdf)]
+ [[paper](https://ye-jiang.com/files/team19.pdf)] [[code](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner)] [[leaderboard](https://pan.webis.de/semeval19/semeval19-web/)]
 
 Before 2019
 ======
