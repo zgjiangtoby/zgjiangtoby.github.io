@@ -2,9 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/  
+
+  - title: "Projects"
+    url: /awards/
+
+  - title: "Services"
+    url: /services/
+    
+  - title: "People"
+    url: /people/
         
-#  - title: "Teaching"
-#    url: /teaching/
-        
-#  - title: "Projects"
-#    url: /awards/
+  - title: "Teaching"
+    url: /teaching/
