@@ -16,9 +16,9 @@ author_profile: true
 
 * **Ye Jiang**, Yimin Wang, "Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection", arXiv preprint arXiv:2407.12879, 2024.  [[paper](https://arxiv.org/pdf/2407.12879)]
 
-* Xiaoman Xu, Xiangrun Li, Taihang Wang, Jianxiang Tian, **Ye Jiang**, "Team QUST at SemEval-2024 Task 8: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting AI-generated Text". Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), 2024.  [[paper](https://aclanthology.org/2024.semeval-1.71/)]
+* Xiaoman Xu, Xiangrun Li, Taihang Wang, Jianxiang Tian, **Ye Jiang**, "Team QUST at SemEval-2024 Task 8: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting AI-generated Text". Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), 2024.  [[paper](https://aclanthology.org/2024.semeval-1.71/)] [[code](https://github.com/warmth27/SemEval2024_QUST/tree/main )]
 
-* Taihang Wang, Jianxiang Tian, Xiangrun Li, Xiaoman Xu and **Ye Jiang**. "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024. <span style="color:red">Best system runner-up, 2/10</span>. [[paper](https://2023.multimediaeval.com/paper11.pdf)]
+* Taihang Wang, Jianxiang Tian, Xiangrun Li, Xiaoman Xu and **Ye Jiang**. "Ensemble Pre-trained Multimodal Models for Image-text Retrieval in the NewsImages MediaEval 2023". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024. <span style="color:red">Best system runner-up, 2/10</span>. [[paper](https://2023.multimediaeval.com/paper11.pdf)] [[code](https://github.com/xxm1215/qust_mediaeval2023)]
 
 * Yi Shao, Yawen Chen, Yang Zhang, Tianlin Zhang, Xuan Zhang, **Ye Jiang**, Jing Li and Jiande Sun. "Integrated Multi-stage Contextual Attention Network for Text-Image Matching". In Proceedings of the MediaEval 2023 Workshop collocated with MMM 2024, 2024 [[paper](https://2023.multimediaeval.com/paper17.pdf)]
 
@@ -60,7 +60,7 @@ author_profile: true
 ======
 * Yimin Wang, Jiajia Liu, **Ye Jiang**, and Robert Erdélyi. "CME arrival time prediction using convolutional neural network." The Astrophysical Journal 881, no. 1: 15, 2019. [[paper](https://ye-jiang.com/files/cme19.pdf)] 
 
-* **Ye Jiang**, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. (<span style="color:red">Best system, 1/42</span>).
+* **Ye Jiang**, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. "Team bertha von suttner at semeval-2019 task 4: Hyperpartisan news detection using elmo sentence representation convolutional network." In Proceedings of the 13th International Workshop on Semantic Evaluation, pp. 840-844. 2019. <span style="color:red">Best system, 1/42</span>.
  [[paper](https://ye-jiang.com/files/team19.pdf)]
 
 Before 2019
