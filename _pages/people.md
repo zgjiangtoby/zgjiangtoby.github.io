@@ -7,7 +7,7 @@ author_profile: true
 
 ## Staffs
 
-| <img src="https://ye-jiang.com/files/IMG_1820.jpg" alt="Ye Jiang" width="200" height="250">  | <img src="https://ye-jiang.com/files/20241008102047.jpg" alt="Yimin Wang" width="200" height="200">  |
+| <img src="https://ye-jiang.com/files/IMG_1820.jpg" alt="Ye Jiang" width="400" height="300">  | <img src="https://ye-jiang.com/files/20241008102047.jpg" alt="Yimin Wang" width="300" height="300">  |
 |:--:|:--:|
 | **Ye Jiang(姜也)** <br>Assistant Professor | **Yimin Wang(王宜敏)** <br>Assistant Professor |
 
