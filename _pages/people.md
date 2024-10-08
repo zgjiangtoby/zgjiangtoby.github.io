@@ -7,7 +7,7 @@ author_profile: true
 
 ## Staffs
 
-| <img src="https://ye-jiang.com/files/IMG_49501.jpg" alt="Ye Jiang" width="200" height="200">  | <img src="https://ye-jiang.com/files/IMG_2488.jpg" alt="Yimin Wang" width="200" height="200">  |
+| <img src="https://ye-jiang.com/files/IMG_18201.jpg" alt="Ye Jiang" width="200" height="200">  | <img src="https://ye-jiang.com/files/20241008102047.jpg" alt="Yimin Wang" width="200" height="200">  |
 |:--:|:--:|
 | **Ye Jiang(姜也)** <br>Assistant Professor | **Yimin Wang(王宜敏)** <br>Assistant Professor |
 
@@ -23,7 +23,7 @@ author_profile: true
 
 ## Alumni
 
-# Past Undergraduate Students
+### Past Undergraduate Students
 
 * [Xiaomin Yu(于小敏)](https://yu-xm.github.io/), BSc 2020, now as MPhil@HKUST
 * Xiangrun Li(李祥润), BSc 2021, now as Master@Shandong University
