@@ -18,9 +18,6 @@ Research interests: In-context learning, Applications in LLMs/LVLMs.
 
 News
 ======
+- [10/2024] One paper was accepted in MMM 2025.
 - [09/2024] One paper published in APJ.
 - [02/2024] Our system is the best system runner-up in NewsImage MediaEval 2023.
-- [08/2023] One paper published in Information Sciences.
-- [04/2023] One paper published in WWW '23 Companion: Companion Proceedings of the ACM Web Conference 2023.
-- [02/2023] Our system is the best system runner-up (in Spanish and Italian tracks) on SemEval 2023 Shared Task 3.
-- [12/2022] One paper published in International Journal of Machine Learning and Cybernetics.
