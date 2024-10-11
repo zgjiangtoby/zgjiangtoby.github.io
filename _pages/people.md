@@ -14,7 +14,7 @@ author_profile: true
 ## Current Students
 
 
-| <img src="https://ye-jiang.com/files/3339.png" alt="Xiaoman Xu" width="200" height="200">  | <img src="https://ye-jiang.com/files/141536.png" alt="Taihang Wang" width="200" height="200">  |
+| <img src="https://ye-jiang.com/files/20241011210757.jpg" alt="Xiaoman Xu" width="200" height="200">  | <img src="https://ye-jiang.com/files/20241011210811.jpg" alt="Taihang Wang" width="200" height="200">  |
 |:--:|:--:|
 | **Xiaoman Xu(徐小曼)** <br>Master, 2022-present. | **Taihang Wang(汪太行)** <br>Master, 2023-present. |
 | <img src="https://ye-jiang.com/files/141549.png" alt="Jiyan Liu" width="200" height="200">  | <img src="https://ye-jiang.com/files/141555.png" alt="Youzheng Liu" width="200" height="200">  |
