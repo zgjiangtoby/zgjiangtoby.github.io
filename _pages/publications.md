@@ -8,6 +8,8 @@ author_profile: true
 2024
 ======
 
+* *Xiaoman Xu, Xiangrui Li, Taihang Wang, **Ye Jiang**. [`AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection`](https://arxiv.org/pdf/2410.15591), arXiv preprint arXiv:2410.15591, 2024.* (Accepted at MMM2025)  [<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" alt= "code" width="20" height="20">](https://github.com/xxm1215/MMM2025_few-shot/)
+
 * *Taihang Wang, Xiaoman Xu, Yimin Wang, **Ye Jiang**. [`Instruction Tuning Vs. In-Context Learning: Revisiting Large Language Models in Few-Shot Computational Social Science`](https://arxiv.org/pdf/2409.14673), arXiv preprint arXiv:2409.14673, 2024.*
   
 * *Jiajia Liu, Chunyu Ji, Yimin Wang, Szabolcs Soós, **Ye Jiang**, Robertus Erdélyi, MB Korsós, Yuming Wang. [`Improving the Automated Coronal Jet Identification with U-NET`](https://iopscience.iop.org/article/10.3847/1538-4357/ad66be/pdf), The Astrophysical Journal, 972, 2024.*
@@ -25,7 +27,7 @@ author_profile: true
 2023
 ======
 
-* ***Ye Jiang**. [`Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques`](https://aclanthology.org/2023.semeval-1.40/), In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. <span style="color:SandyBrown">Best system runner-up</span> in Spanish (2/16, zero-shot) and Italian (2/17) tracks.* [<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" alt= "code" width="20" height="20">](https://github.com/zgjiangtoby/SemEval2023_QUST)
+* ***Ye Jiang**. [`Team QUST at SemEval-2023 Task 3: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting Online News Genre, Framing and Persuasion Techniques`](https://aclanthology.org/2023.semeval-1.40/), In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 300–306, Toronto, Canada. Association for Computational Linguistics, 2023. <span style="color:SandyBrown">Best system runner-up in Spanish (2/16, zero-shot) and Italian (2/17) tracks</span>.* [<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" alt= "code" width="20" height="20">](https://github.com/zgjiangtoby/SemEval2023_QUST)
   
 * ***Ye Jiang**, Xiaomin Yu, Yimin Wang, Xiaoman Xu, Xingyi Song, and Diana Maynard. [`Similarity-Aware Multimodal Prompt Learning for Fake News Detection`](https://ye-jiang.com/files/IS-2023.pdf), Information Sciences, Volume 647, 119446, 2023.*
 
