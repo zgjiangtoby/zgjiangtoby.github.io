@@ -8,7 +8,7 @@ author_profile: true
 2024
 ======
 
-* *Xiaoman Xu, Xiangrui Li, Taihang Wang, **Ye Jiang**. [`AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection`](https://arxiv.org/pdf/2410.15591), arXiv preprint arXiv:2410.15591, 2024.* (Accepted at MMM2025)  [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="25" height="25">](https://github.com/xxm1215/MMM2025_few-shot/)
+* *Xiaoman Xu, Xiangrui Li, Taihang Wang, **Ye Jiang**. [`AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection`](https://arxiv.org/pdf/2410.15591), arXiv preprint arXiv:2410.15591, 2024.* (Accepted at MMM2025)  [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/xxm1215/MMM2025_few-shot/)
 
 * *Taihang Wang, Xiaoman Xu, Yimin Wang, **Ye Jiang**. [`Instruction Tuning Vs. In-Context Learning: Revisiting Large Language Models in Few-Shot Computational Social Science`](https://arxiv.org/pdf/2409.14673), arXiv preprint arXiv:2409.14673, 2024.*
   
