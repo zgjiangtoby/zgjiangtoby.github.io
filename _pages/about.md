@@ -18,6 +18,8 @@ Research interests: In-context learning, Applications in LLMs/LVLMs.
 
 News
 ======
-- [10/2024] One paper was accepted in MMM 2025.
-- [09/2024] One paper published in APJ.
-- [02/2024] Our system is the best system runner-up in NewsImage MediaEval 2023.
+- [12/2024] One paper was accepted at the Engineering Application of Artificial Intelligence.
+- [11/2024] Dr.Yimin Wang was invited to present our work at the King Mongkut's University of Technology North Bangkok.
+- [10/2024] One paper was accepted at the International Conference on Multimedia Modelling 2025.
+- [09/2024] One paper published at The Astrophysical Journal.
+- [02/2024] Our system is the best system runner-up at the NewsImage MediaEval 2023.
