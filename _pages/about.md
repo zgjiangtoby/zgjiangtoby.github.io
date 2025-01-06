@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ye Jiang's homepage"
+title: "Ye Jiang's homepage [[中文](https://xk.qust.edu.cn/info/1041/4713.htm)]"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
