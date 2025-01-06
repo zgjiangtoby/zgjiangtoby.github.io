@@ -5,16 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-2024
+2025
 ======
 
-* *Xiaoman Xu, Xiangrui Li, Taihang Wang, **Ye Jiang**. [`AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection`](https://arxiv.org/pdf/2410.15591), arXiv preprint arXiv:2410.15591, 2024.* (Accepted at MMM2025)  [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/xxm1215/MMM2025_few-shot/)
+* ***Ye Jiang**, Taihang Wang, Xiaoman Xu, Yimin Wang, Xingyi Song, Diana Maynard. [`Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection`](https://www.sciencedirect.com/science/article/abs/pii/S0952197624020906?via%3Dihub), Engineering Applications of Artificial Intelligence, Volume 142, 2025.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/zgjiangtoby/FND_fewshot)
+
+* *Xiaoman Xu, Xiangrui Li, Taihang Wang, **Ye Jiang**. [`AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection`](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_7),  MultiMedia Modeling. Lecture Notes in Computer Science, vol 15520. 2025.*  [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/xxm1215/MMM2025_few-shot/)
+
+2024
+======
 
 * *Taihang Wang, Xiaoman Xu, Yimin Wang, **Ye Jiang**. [`Instruction Tuning Vs. In-Context Learning: Revisiting Large Language Models in Few-Shot Computational Social Science`](https://arxiv.org/pdf/2409.14673), arXiv preprint arXiv:2409.14673, 2024.*
   
 * *Jiajia Liu, Chunyu Ji, Yimin Wang, Szabolcs Soós, **Ye Jiang**, Robertus Erdélyi, MB Korsós, Yuming Wang. [`Improving the Automated Coronal Jet Identification with U-NET`](https://iopscience.iop.org/article/10.3847/1538-4357/ad66be/pdf), The Astrophysical Journal, 972, 2024.*
-
-* ***Ye Jiang**, Taihang Wang, Xiaoman Xu, Yimin Wang, Xingyi Song, Diana Maynard. [`Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection`](https://arxiv.org/pdf/2407.12880), arXiv preprint arXiv:2407.12880, 2024.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/zgjiangtoby/FND_fewshot)
 
 * ***Ye Jiang**, Yimin Wang. [`Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection`](https://arxiv.org/pdf/2407.12879), arXiv preprint arXiv:2407.12879, 2024.*
 
