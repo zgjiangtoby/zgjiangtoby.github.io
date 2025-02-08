@@ -18,9 +18,10 @@ Research interests: In-context learning, Applications in LLMs/LVLMs.
 
 News
 ======
-- [01/2025] My student Xiaoman Xu gave an oral presentation at Multimedia Modelling 2025 in Naro, Japan.
+- [02/2025] Congrats to Jiyan won 1st on Hindi and 2nd on Russian in SemEval 2025 Task 10!
+- [02/2025] Congrats to Youzheng achieved 5th on Monolingual and 7th on Crosslingual tracks in SemEval 2025 Task 7!
+- [01/2025] Congrats to Xiaoman successfully gave an oral presentation at Multimedia Modelling 2025 in Naro, Japan!
 - [12/2024] One paper was accepted at the Engineering Application of Artificial Intelligence.
 - [11/2024] Dr.Yimin Wang was invited to present our work at the King Mongkut's University of Technology North Bangkok.
 - [10/2024] One paper was accepted at the International Conference on Multimedia Modelling 2025.
-- [09/2024] One paper published in The Astrophysical Journal.
-- [02/2024] Our system is the best system runner-up at the NewsImage MediaEval 2023.
+
