@@ -16,10 +16,10 @@ Research interests: In-context learning, Applications in LLMs/LVLMs.
 
 **🎓I am ACTIVELY looking for students to conduct research in the area of data mining, machine learning, social computing, and natural language processing. Interested students please feel free to drop me an email with your CV.**
 
-News
+News 
 ======
 
-|||
+| | |
 |:--:|:--:|
 | [02/2025] Congrats to Jiyan won 1st in Hindi and 2nd in Russian on SemEval 2025 Task 10!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/task10_all.png" width="450" height="200">  |
 | [02/2025] Congrats to Youzheng achieved 5th on Monolingual and 7th on Crosslingual tracks in SemEval 2025 Task 7!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/task7_all.png" width="450" height="200">  |
