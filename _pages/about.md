@@ -21,8 +21,8 @@ News
 
 | | |
 |:--:|:--:|
-| [02/2025] Congrats to Jiyan won 1st in Hindi and 2nd in Russian on SemEval 2025 Task 10!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/task10_all.png" width="450" height="200">  |
-| [02/2025] Congrats to Youzheng achieved 5th on Monolingual and 7th on Crosslingual tracks in SemEval 2025 Task 7!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/task7_all.png" width="450" height="200">  |
-| [01/2025] Congrats to Xiaoman successfully gave an oral presentation at Multimedia Modelling 2025 in Naro, Japan!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/20250306091446.jpg" width="450" height="200">  |
+| [02/2025] Congrats to Jiyan won 1st in Hindi and 2nd in Russian on SemEval 2025 Task 10!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/task10_all.png?raw=true" width="450" height="200">  |
+| [02/2025] Congrats to Youzheng achieved 5th on Monolingual and 7th on Crosslingual tracks in SemEval 2025 Task 7!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/task7_all.png?raw=true" width="450" height="200">  |
+| [01/2025] Congrats to Xiaoman successfully gave an oral presentation at Multimedia Modelling 2025 in Naro, Japan!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/files/20250306091446.jpg?raw=true" width="450" height="200">  |
 | [1/2025] Our paper "[Cross-modal augmentation for few-shot multimodal fake news detection](https://www.sciencedirect.com/science/article/pii/S0952197624020906)" published at the Engineering Application of Artificial Intelligence.  | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0952197624020906-gr2.jpg" width="450" height="200">  |
 
