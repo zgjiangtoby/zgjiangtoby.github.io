@@ -18,10 +18,10 @@ Research interests: In-context learning, Applications in LLMs/LVLMs.
 
 News
 ======
-- [02/2025] Congrats to Jiyan won 1st in Hindi and 2nd in Russian on SemEval 2025 Task 10!
-- [02/2025] Congrats to Youzheng achieved 5th on Monolingual and 7th on Crosslingual tracks in SemEval 2025 Task 7!
-- [01/2025] Congrats to Xiaoman successfully gave an oral presentation at Multimedia Modelling 2025 in Naro, Japan!
-- [12/2024] One paper was accepted at the Engineering Application of Artificial Intelligence.
-- [11/2024] Dr.Yimin Wang was invited to present our work at the King Mongkut's University of Technology North Bangkok.
-- [10/2024] One paper was accepted at the International Conference on Multimedia Modelling 2025.
+
+| [02/2025] Congrats to Jiyan won 1st in Hindi and 2nd in Russian on SemEval 2025 Task 10!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/tree/master/files/task10_all.png" width="450" height="200">  |
+|:--:|:--:|
+| [02/2025] Congrats to Youzheng achieved 5th on Monolingual and 7th on Crosslingual tracks in SemEval 2025 Task 7!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/tree/master/files/task7_all.png" width="450" height="200">  |
+| [01/2025] Congrats to Xiaoman successfully gave an oral presentation at Multimedia Modelling 2025 in Naro, Japan!  | <img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/tree/master/files/20250306091446.jpg" width="450" height="200">  |
+| [1/2025] Our paper "[Cross-modal augmentation for few-shot multimodal fake news detection](https://www.sciencedirect.com/science/article/pii/S0952197624020906)" published at the Engineering Application of Artificial Intelligence.  | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0952197624020906-gr2.jpg" width="450" height="200">  |
 
