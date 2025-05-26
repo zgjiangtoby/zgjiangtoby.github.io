@@ -10,8 +10,8 @@ main:
   - title: "Services"
     url: /services/
     
-  - title: "People"
-    url: /people/
+ # - title: "People"
+#    url: /people/
         
   - title: "Teaching"
     url: /teaching/
