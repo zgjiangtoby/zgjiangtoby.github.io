@@ -7,6 +7,7 @@ author_profile: true
 
 2025
 ======
+* ***Ye Jiang**, Yimin Wang. [`IMFND: In-context Multimodal Fake News Detection with large visual-language models`](https://doi.org/10.1016/j.knosys.2025.113880), Knowledge-Based Systems, 113880, 2025.*
 
 * ***Ye Jiang**, Taihang Wang, Xiaoman Xu, Yimin Wang, Xingyi Song, Diana Maynard. [`Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection`](https://www.sciencedirect.com/science/article/abs/pii/S0952197624020906?via%3Dihub), Engineering Applications of Artificial Intelligence, Volume 142, 2025.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/zgjiangtoby/FND_fewshot)
 
@@ -18,8 +19,6 @@ author_profile: true
 * *Taihang Wang, Xiaoman Xu, Yimin Wang, **Ye Jiang**. [`Instruction Tuning Vs. In-Context Learning: Revisiting Large Language Models in Few-Shot Computational Social Science`](https://arxiv.org/pdf/2409.14673), arXiv preprint arXiv:2409.14673, 2024.*
   
 * *Jiajia Liu, Chunyu Ji, Yimin Wang, Szabolcs Soós, **Ye Jiang**, Robertus Erdélyi, MB Korsós, Yuming Wang. [`Improving the Automated Coronal Jet Identification with U-NET`](https://iopscience.iop.org/article/10.3847/1538-4357/ad66be/pdf), The Astrophysical Journal, 972, 2024.*
-
-* ***Ye Jiang**, Yimin Wang. [`Large Visual-Language Models Are Also Good Classifiers: A Study of In-Context Multimodal Fake News Detection`](https://arxiv.org/pdf/2407.12879), arXiv preprint arXiv:2407.12879, 2024.*
 
 * *Xiaoman Xu, Xiangrun Li, Taihang Wang, Jianxiang Tian, **Ye Jiang**. [`Team QUST at SemEval-2024 Task 8: A Comprehensive Study of Monolingual and Multilingual Approaches for Detecting AI-generated Text`](https://aclanthology.org/2024.semeval-1.71/), Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024), 2024.  [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/warmth27/SemEval2024_QUST/tree/main ) [<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8" alt= "leaderboard" width="20" height="20">](https://github.com/mbzuai-nlp/SemEval2024-task8/blob/main/SemEval2024_task8_overview_April.pdf)<span style="color:SandyBrown">Ranked 6 in Subtask A Multilingual, 6/59</span>.*
 
