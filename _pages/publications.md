@@ -7,7 +7,11 @@ author_profile: true
 
 2025
 ======
-* ***Ye Jiang**, Yimin Wang. [`IMFND: In-context Multimodal Fake News Detection with large visual-language models`](https://doi.org/10.1016/j.knosys.2025.113880), Knowledge-Based Systems, 113880, 2025.*
+* *Jiyan Liu and Youzheng Liu and Taihang Wang and Xiaoman Xu and Yimin Wang and **Ye Jiang**. [`Team QUST at SemEval-2025 Task 10: Evaluating Large Language Models in Multiclass Multi-label Classification of News Entity Framing`](https://arxiv.org/abs/2506.21564), Arxiv, 2025.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/warmth27/SemEval2025_Task10)
+
+* *Youzheng Liu and Jiyan Liu and Xiaoman Xu and Taihang Wang and Yimin Wang and **Ye Jiang**. [`QUST_NLP at SemEval-2025 Task 7: A Three-Stage Retrieval Framework for Monolingual and Crosslingual Fact-Checked Claim Retrieval`](https://arxiv.org/abs/2506.17272), Arxiv, 2025.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/warmth27/SemEval2025_Task7)
+
+* ***Ye Jiang**, Yimin Wang. [`IMFND: In-context Multimodal Fake News Detection with large visual-language models`](https://doi.org/10.1016/j.knosys.2025.113880), Knowledge-Based Systems, Volume 325, 113880, 2025.*
 
 * ***Ye Jiang**, Taihang Wang, Xiaoman Xu, Yimin Wang, Xingyi Song, Diana Maynard. [`Cross-Modal Augmentation for Few-Shot Multimodal Fake News Detection`](https://www.sciencedirect.com/science/article/abs/pii/S0952197624020906?via%3Dihub), Engineering Applications of Artificial Intelligence, Volume 142, 2025.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/zgjiangtoby/FND_fewshot)
 
