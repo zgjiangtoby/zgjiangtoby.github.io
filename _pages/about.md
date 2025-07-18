@@ -20,7 +20,7 @@ News
 ======
 
 |||
-|:--:|:--:|
+|:--|:--:|
 | [7/2025] I will serve as Area Chair at AACL 2025. |  |
 | [7/2025] I will serve as Session Chair at ICIC 2025. | |
 | [7/2025] I will serve as Session Chair at the 2025 [International Conference on Multimedia Intelligent, Networking and Security](https://xk.qust.edu.cn/info/1046/5521.htm). |    |
