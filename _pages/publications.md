@@ -7,6 +7,10 @@ author_profile: true
 
 2025
 ======
+
+* *Taihang Wang, Xiaoman Xu, Yimin Wang, **Ye Jiang**. [`In-Context Learning vs Instruction Tuning: A Systematic Comparison of Few-Shot Adaptation Strategies for Large Language Models`](https://link.springer.com/chapter/10.1007/978-981-95-0011-6_41), Advanced Intelligent Computing Technology and Applications. ICIC 2025. Communications in Computer and Information Science, vol 2574, 2025.*
+
+
 * *Jiyan Liu, Youzheng Liu, Taihang Wang, Xiaoman Xu, Yimin Wang and **Ye Jiang**. [`Team QUST at SemEval-2025 Task 10: Evaluating Large Language Models in Multiclass Multi-label Classification of News Entity Framing`](https://arxiv.org/abs/2506.21564), Arxiv, 2025.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/warmth27/SemEval2025_Task10)
 
 * *Youzheng Liu, Jiyan Liu, Xiaoman Xu, Taihang Wang, Yimin Wang and **Ye Jiang**. [`QUST_NLP at SemEval-2025 Task 7: A Three-Stage Retrieval Framework for Monolingual and Crosslingual Fact-Checked Claim Retrieval`](https://arxiv.org/abs/2506.17272), Arxiv, 2025.* [<img src="https://ye-jiang.com/files/github-mark.png" alt= "code" width="20" height="20">](https://github.com/warmth27/SemEval2025_Task7)
@@ -19,8 +23,6 @@ author_profile: true
 
 2024
 ======
-
-* *Taihang Wang, Xiaoman Xu, Yimin Wang, **Ye Jiang**. [`Instruction Tuning Vs. In-Context Learning: Revisiting Large Language Models in Few-Shot Computational Social Science`](https://arxiv.org/pdf/2409.14673), arXiv preprint arXiv:2409.14673, 2024.*
   
 * *Jiajia Liu, Chunyu Ji, Yimin Wang, Szabolcs Soós, **Ye Jiang**, Robertus Erdélyi, MB Korsós, Yuming Wang. [`Improving the Automated Coronal Jet Identification with U-NET`](https://iopscience.iop.org/article/10.3847/1538-4357/ad66be/pdf), The Astrophysical Journal, 972, 2024.*
 
