@@ -21,7 +21,7 @@ News
 
 |||
 |:--|:--:|
-| [7/2025] Our paper "[in-context learning vs instruction tuning: a systematic comparison of few-shot adaptation strategies for large language models](https://link.springer.com/chapter/10.1007/978-981-95-0011-6_41)" published at the ICIC 2025.  | [<img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/images/ICLVSIT.png?raw=true" style="max-width:100%; width:100px; height:50px; cursor:zoom-in;">](https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/images/ICLVSIT.png?raw=true) |
+| [7/2025] Our paper "[In-Context Learning vs Instruction Tuning: A Systematic Comparison of Few-Shot Adaptation Strategies for Large Language Models](https://link.springer.com/chapter/10.1007/978-981-95-0011-6_41)" published at the ICIC 2025.  | [<img src="https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/images/ICLVSIT.png?raw=true" style="max-width:100%; width:100px; height:50px; cursor:zoom-in;">](https://github.com/zgjiangtoby/zgjiangtoby.github.io/blob/master/images/ICLVSIT.png?raw=true) |
 | [7/2025] I will serve as Area Chair at AACL 2025. |  |
 | [7/2025] I will serve as Session Chair at ICIC 2025. | |
 | [7/2025] I will serve as Session Chair at the 2025 [International Conference on Multimedia Intelligent, Networking and Security](https://xk.qust.edu.cn/info/1046/5521.htm). |    |
