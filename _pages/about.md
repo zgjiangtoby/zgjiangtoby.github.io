@@ -14,8 +14,6 @@ I completed my PhD in Computer Science at the University of Sheffield in 2021 wi
 
 Research interests: In-context learning, Applications in LLMs/LVLMs.
 
-**🎓I am ACTIVELY looking for students to conduct research in the area of data mining, machine learning, social computing, and natural language processing. Interested students please feel free to drop me an email with your CV.**
-
 News 
 ======
 
