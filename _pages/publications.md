@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+======
+* *Yimin Wang, Jiajia Liu, Jing Chen, Robertus Erdélyi, Norbert G Gyenge, **Ye Jiang**. [`A deep learning approach for automated total sunspot number estimation`](https://iopscience.iop.org/article/10.3847/1538-4357/ae22d6/pdf), The Astrophysical Journal, 997(2), 148, 2026.*
+
 2025
 ======
 
