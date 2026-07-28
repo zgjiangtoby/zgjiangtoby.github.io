@@ -12,7 +12,7 @@ I am an Assistant Professor <img src="https://github.githubassets.com/images/ico
 
 I completed my PhD in Computer Science at the University of Sheffield in 2021 with a thesis titled "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change". My PhD was funded by the Grantham Centre for Sustainable Futures, where I was also a [Grantham Scholar](https://grantham.sheffield.ac.uk/scholars/ye-jiang-2/). 
 
-Research interests: In-context learning, Applications in LLMs/LVLMs.
+Research interests: Trustworthy Social Intelligence, In-context Learning, Applications in LLMs/LVLMs.
 
 News 
 ======
